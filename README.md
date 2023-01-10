@@ -1,15 +1,14 @@
-### Hello!, i'am Sebastian Guadalupe Tanori Ruiz👋
+### Hi there 👋, My name is Sebastian Guadalupe Tanori Ruiz
+#### I am a junior programmer
 
-<!--
-**tanori200321/tanori200321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in areas such as: Web Development, Mobile Application Development, Interface Design. I like to innovate and solve challenges every day.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / SASS / JAVASCRIPT / DESIGN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning I am currently working on my skills 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanori200321)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanori200321&show_icons=true)  
+
