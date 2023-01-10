@@ -5,7 +5,8 @@ I am interested in areas such as: Web Development, Mobile Application Developmen
 
 Skills: HTML / CSS / SASS / JAVASCRIPT / DESIGN
 
-- 🌱 I’m currently learning I am currently working on my skills 
+- 🌱 I’m currently learning 
+- 🌱 I’m currently working on my skills 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanori200321)  
