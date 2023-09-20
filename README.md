@@ -3,8 +3,6 @@
 
 I am interested in areas such as: Web Development, Mobile Application Development, Interface Design. I like to innovate and solve challenges every day.
 
-Skills: HTML / CSS / SASS / JAVASCRIPT / DESIGN
-
 - 🌱 I’m currently learning 
 - 🌱 I’m currently working on my skills 
 
